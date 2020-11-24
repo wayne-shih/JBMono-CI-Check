@@ -6,6 +6,9 @@ thisFont="JetBrainsMono"  #must match the name in the font file
 TT_DIR=./fonts/ttf
 OT_DIR=./fonts/otf
 
+#Generating fonts ==========================================================
+#Requires fontmake https://github.com/googlefonts/fontmake
+
 echo ".
 CLEAN FONTS FOLDERS
 ."
