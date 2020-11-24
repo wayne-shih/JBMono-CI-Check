@@ -55,7 +55,6 @@ do
 	[ -f $font.fix ] && mv $font.fix $font
 done
 
-
 rm -rf master_ufo/ instance_ufo/
 
 
